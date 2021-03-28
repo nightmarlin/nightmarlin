@@ -1,7 +1,13 @@
-## Howdy!!!
+## Aloha 💙
 
-Welcome to my GitHub profile! This bit's in development - I'm planning on making it pretty, don't worry (and I've got an entire holiday to do so!)
+I'm Lewis (He/Him), a combination Jr. Backend Developer, Software Engineering student and cycling
+enthusiast. I currently work at [WalkUp](https://walkup.co/), creating a queue-free dining
+experience through the power of Go and TypeScript! I'm also in my second year at
+[Lancaster University](https://www.lancaster.ac.uk/), learning new skills and trying very hard not
+to get mad at C/Java (and failing).
 
-Until then... Stand by :blue_heart:
+I'm always looking to learn new things and am currently working on my understanding of Kubernetes,
+Docker and GCP!
 
-<!-- What are you doing looking at this bit? Go find something interesting to learn or summat -->
+<!-- What are you doing looking at this bit? Go find something new to learn or develop -->
+<!-- markdownlint-disable-file MD026 MD041 -->
