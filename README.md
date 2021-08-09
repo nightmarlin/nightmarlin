@@ -1,8 +1,8 @@
 ## Aloha 💙
 
-I'm Lewis (He/Him), a combination Jr. Backend Developer, Software Engineering student and cycling
+I'm Lewis (He/Him), a combination Backend Developer, Software Engineering student and cycling
 enthusiast. I currently work at [WalkUp](https://walkup.co/), creating a queue-free dining
-experience through the power of Go and TypeScript! I'm also in my second year at
+experience through the power of Go and TypeScript! I'm also in my third year at
 [Lancaster University](https://www.lancaster.ac.uk/), learning new skills and trying very hard not
 to get mad at C/Java (and failing).
 
