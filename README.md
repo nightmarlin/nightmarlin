@@ -1,13 +1,36 @@
-## Aloha 💙
+<!--
+Copyright Lewis Miller 2022.
 
-I'm Lewis (He/Him), a combination Backend Developer, Software Engineering student and cycling
-enthusiast. I currently work at [WalkUp](https://walkup.co/), creating a queue-free dining
-experience through the power of Go and TypeScript! I recently graduated (Software Engineering,
-BSC First Class Hons.) from [Lancaster University](https://www.lancaster.ac.uk/), learning new
-skills, helping to run our LGBTQ+ Forum and trying very hard not to get mad at C/Java (and failing).
+This work is licensed under the CC-BY-SA-4.0 license available at
+https://github.com/nightmarlin/nightmarlin/blob/main/LICENSE
+-->
 
-I'm always looking to learn new things and am currently working on my understanding of Kubernetes,
-Docker and GCP!
+## Aloha, I'm Lewis
 
-<!-- What are you doing looking at this bit? Go find something new to learn or develop -->
+> He / Him 🏳️‍🌈
+
+A combination Backend Developer, Software Engineering graduate and mild Cycling
+enthusiast. I currently work at [Dojo](https://dojo.tech/) as a Backend
+Engineer - powering virtual queues, bookings, and other restaurant-y goodness
+using Go (and a dash of TypeScript)!
+
+I recently graduated (Software Engineering, BSc First Class Hons.) from
+[Lancaster University](https://www.lancaster.ac.uk/study/undergraduate/courses/software-engineering-bsc-hons-g602/)
+where I studied C, Java (against my will I promise), and various other
+technologies. Highlights include:
+
+- LICA 140: Introduction to Design
+- SCC 211: Operating Systems
+- SCC 369: Embedded Systems
+- SCC 230, 330 & 331: Group projects
+
+I'm always looking to learn new things and am currently working on my
+understanding of Kubernetes, Docker and GCP!
+
+While my full CV can be found [here](./cv.md), I'm not currently looking for new
+employment opportunites - but if you work with something cool and interesting,
+give it a read and reach out anyways!
+
+> I prefer not to do contracting/agency work.
+
 <!-- markdownlint-disable-file MD026 MD041 -->
