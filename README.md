@@ -33,4 +33,6 @@ give it a read and reach out anyways!
 
 > I prefer not to do contracting/agency work.
 
-<!-- markdownlint-disable-file MD026 MD041 -->
+<a style="display:none" rel="me" href="https://tech.lgbt/@nightmarlin">mastodon ownership verification</a>
+
+<!-- markdownlint-disable-file MD026 MD041 MD033 -->
