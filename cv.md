@@ -1,5 +1,5 @@
 <!--
-Copyright Lewis Miller 2022.
+Copyright Lewis Miller '22.
 
 This work is licensed under the CC-BY-SA-4.0 license available at
 https://github.com/nightmarlin/nightmarlin/blob/main/LICENSE
@@ -31,7 +31,7 @@ learn something new!
 
 ## Previous Experience
 
-- [Dojo](https://dojo.tech/) \[Jul 2020 - Present\]
+- [Dojo](https://dojo.tech/) \[Jul '20 - Present\]
 
   > Intern -> Jr. Backend Engineer -> Backend Engineer
 
@@ -53,7 +53,7 @@ learn something new!
     COVID-19 pandemic amid rapidly-changing guidelines and requirements for both
     us and our customers
 
-- [Costa Coffee](https://www.costa.co.uk/) \[2017 - 2020\]
+- [Costa Coffee](https://www.costa.co.uk/) \['17 - '20\]
 
   > Barista
 
@@ -64,7 +64,7 @@ learn something new!
 
 ## Volunteering
 
-- Lancaster University LGBTQ+ Forum Executive \[Jan '21 - Jul '22\]
+- Lancaster University LGBTQ+ Forum Executive \[Jan '22 - Jul '22\]
 
   > General Secretary
 
@@ -141,7 +141,7 @@ you want to share with people - a good work-life balance is important!
 
 ## Education
 
-- Lancaster University \[2019 - 2022\]
+- Lancaster University \['19 - '22\]
 
   > BSc Software Engineering - First Class with Honours.
 
@@ -154,7 +154,7 @@ you want to share with people - a good work-life balance is important!
   users and how you design what you build. While it focused heavily on physical
   design, it still informs how I think about APIs and usability.
 
-- Bournemouth School for Boys \[2017 - 2019\]
+- Bournemouth School for Boys \['17 - '19\]
 
   > A-Level Physics: A
   >
@@ -162,7 +162,7 @@ you want to share with people - a good work-life balance is important!
   >
   > A-Level Computer Science: B
 
-- Bournemouth School for Boys \[2012 - 2017\]
+- Bournemouth School for Boys \['12 - '17\]
 
   > Passes in GCSE English Literature, English Language and Mathematics.
 
